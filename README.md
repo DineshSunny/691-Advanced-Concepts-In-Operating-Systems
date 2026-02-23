@@ -74,3 +74,45 @@ Virtual Machines
 Docker (if applicable)
 
 Git & GitHub
+
+📊 Evaluation Components
+
+Programming Assignments
+
+Lab Experiments
+
+Research Paper / Final Project
+
+Presentations
+
+Exams / Quizzes
+
+🧪 Sample Implementations (Examples)
+
+Multithreaded Process Scheduler Simulation
+
+Memory Paging Algorithm Implementation
+
+Producer-Consumer Synchronization Problem
+
+Deadlock Detection & Recovery Simulation
+
+Distributed System Communication Module
+
+📈 Learning Outcomes
+
+This course strengthens:
+
+System-level programming skills
+
+Performance analysis and benchmarking
+
+Concurrency problem-solving
+
+Research and technical documentation skills
+
+Advanced debugging and system tracing
+
+📎 Academic Integrity
+
+All work in this repository is completed as part of CSCI 691 coursework at St. Cloud State University. Any collaboration follows university academic integrity policies.
